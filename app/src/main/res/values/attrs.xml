@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChipToggleButton">
+        <attr name="radius" format="float" />
+        <attr name="selectedBackgroundColor" format="reference|color" />
+        <attr name="unSelectedBackgroundColor" format="reference|color" />
+        <attr name="selectedTextColor" format="reference|color" />
+        <attr name="unSelectedTextColor" format="reference|color" />
+        <attr name="selectedBorderColor" format="reference|color" />
+        <attr name="unSelectedBorderColor" format="reference|color" />
+        <attr name="borderWidth" format="integer" />
+    </declare-styleable>
+</resources>
